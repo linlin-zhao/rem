@@ -22,5 +22,8 @@
 	"homepage": "https://github.com/linlin-zhao/rem#readme",
 	"devDependencies": {
 		"@zhaolinlin/prettier-config": "^1.2.0-0"
+	},
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com/"
 	}
 }
