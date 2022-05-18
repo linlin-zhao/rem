@@ -1,0 +1,26 @@
+{
+	"name": "@linlin.zhao/rem",
+	"version": "1.0.0",
+	"description": "自定义remjs 移动端适配",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"prettier": "@zhaolinlin/prettier-config",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/linlin-zhao/rem.git"
+	},
+	"keywords": [
+		"rem"
+	],
+	"author": "linlin.zhao",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/linlin-zhao/rem/issues"
+	},
+	"homepage": "https://github.com/linlin-zhao/rem#readme",
+	"devDependencies": {
+		"@zhaolinlin/prettier-config": "^1.2.0-0"
+	}
+}
