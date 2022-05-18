@@ -1,5 +1,5 @@
 {
-	"name": "@linlin.zhao/rem",
+	"name": "@zhaolinlin/rem",
 	"version": "1.0.0",
 	"description": "自定义remjs 移动端适配",
 	"main": "index.js",
